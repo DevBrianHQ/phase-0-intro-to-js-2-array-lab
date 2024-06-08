@@ -37,3 +37,4 @@ function removeFirstCat() {
     const newCats1 = cats.slice(1)
     return newCats1
 }
+
